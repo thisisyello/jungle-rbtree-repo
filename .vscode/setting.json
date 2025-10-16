@@ -4,6 +4,6 @@
         "stdbool.h": "c"
     },
     "C_Cpp.default.includePath": [
-        "${workspaceFolder}/rbtree_lab/src"
+        "${rbtree_lab_docker}/rbtree_lab/src"
     ]
 }
